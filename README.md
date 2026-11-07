@@ -54,3 +54,7 @@ npm pack --dry-run
 ```
 
 Download videos you have permission to save. The terminal layout was inspired by [Yoinks](https://github.com/pablostanley/yoinks).
+
+## Contributors
+
+- **ChatGPT (Codex)** helped build the CLI, design the terminal interface, and prepare the release.
