@@ -14,14 +14,14 @@ Requires Windows and Node.js 22 or newer. Install the download engine with WinGe
 winget install --source winget --id yt-dlp.yt-dlp --exact
 ```
 
-Once Vilo is published to npm:
+Install Vilo from npm:
 
 ```cmd
 npm install -g vilo-cli
 vilo
 ```
 
-To install from a local clone before the npm release, run `npm install -g .` in the repository directory.
+To install from a local clone, run `npm install -g .` in the repository directory.
 
 ## Use
 

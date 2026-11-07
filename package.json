@@ -2,6 +2,10 @@
   "name": "vilo-cli",
   "version": "1.5.0",
   "description": "Paste links and download videos from the command line",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloxsense-dev/vilo.git"
+  },
   "keywords": ["video", "downloader", "yt-dlp", "windows", "cli"],
   "publishConfig": {
     "access": "public"
