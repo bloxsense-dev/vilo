@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="380" viewBox="0 0 840 380" role="img" aria-label="Vilo terminal interface">
+  <defs>
+    <linearGradient id="rainbow"><stop stop-color="#fca388"/><stop offset=".32" stop-color="#eae489"/><stop offset=".62" stop-color="#83e5d2"/><stop offset="1" stop-color="#bfa6fa"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="838" height="378" rx="16" fill="#101419" stroke="#38434d"/>
+  <path d="M1 43h838" stroke="#38434d"/>
+  <g font-family="Consolas, monospace">
+    <text x="24" y="28" font-size="13" fill="#afbdc9">CMD  /  vilo</text>
+    <path d="M82 133q32-25 64 0t64 0m420 0q32-25 64 0t64 0" fill="none" stroke="#466075" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 6"/>
+    <text x="420" y="160" text-anchor="middle" font-size="75" font-weight="bold" fill="url(#rainbow)">Vilo</text>
+    <text x="420" y="204" text-anchor="middle" font-size="15" fill="#e5edf3">Загрузка видео</text>
+    <text x="420" y="228" text-anchor="middle" font-size="13" fill="#a3aeb9">YouTube · TikTok · Instagram · X</text>
+    <rect x="125" y="252" width="590" height="47" rx="6" fill="#1d232b" stroke="#697a89"/>
+    <rect x="610" y="258" width="99" height="35" rx="3" fill="#e5edf3"/>
+    <text x="144" y="281" font-size="14" fill="#a3aeb9">› https://youtube.com/watch?v=…</text>
+    <text x="659" y="281" text-anchor="middle" font-size="13" fill="#181f27">↓ Скачать</text>
+    <text x="420" y="330" text-anchor="middle" font-size="13" fill="#a3aeb9">[Ctrl+V] Вставить   [Enter] Скачать   [Esc] Выйти</text>
+  </g>
+</svg>
