@@ -14,7 +14,14 @@ Requires Windows and Node.js 22 or newer. Install the download engine with WinGe
 winget install --source winget --id yt-dlp.yt-dlp --exact
 ```
 
-Install Vilo from npm:
+Install the current version from GitHub with npm:
+
+```cmd
+npm install -g https://codeload.github.com/bloxsense-dev/vilo/tar.gz/refs/heads/main
+vilo
+```
+
+After the npm registry release, you can install by package name:
 
 ```cmd
 npm install -g vilo-cli
